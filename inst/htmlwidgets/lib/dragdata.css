@@ -1,0 +1,26 @@
+#data-title {
+	text-align:center;
+}
+
+#drop-area {
+background-color:#66c2ff;
+	border:2px solid #46523C;
+/*  border-radius:25px;   */
+	height:180px;
+	text-align:center;
+	color:grey;
+	overflow:auto;
+	padding:12px;
+}
+
+#drop-area #datasets {
+	display:inline-block;
+	font-size:small;
+	margin-right:8px;
+	text-align:center;
+	vertical-align:top;
+}
+
+.thumb {
+	height:45px;
+}
